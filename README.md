@@ -65,6 +65,6 @@ end by advising him accordingly.
 
 To compile
 
-<mark>javac -cp Utils Josephus.java ZealotCircle.java</mark>
+`javac -cp Utils Josephus.java ZealotCircle.java`
 
 Test Run with
