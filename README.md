@@ -40,9 +40,9 @@ the "safe" position for Josephus to occupy.
 The program receives its input from the command line, and must have either
 two or three command-line parameters:
 
-- First, the number of zealots (must be from from 1 to 50)
+- First, the number of zealots (must be from from 2 to 50)
 
-- Second, the "elimination gap" (the number n mentioned above)
+- Second, the "elimination gap" (the number n mentioned above, has to be more than 2)
 
 - Third, and optionally, an integer seed value (>0) for the random generator
 
@@ -72,3 +72,16 @@ And make a jar file with the following command:
 `jar @jar.txt`
 
 The text file "jar.txt" contains the information for making the jar file.
+
+## How to Run the jar file
+
+Run with the following command to see the opening screen:
+
+`JosephusProblem-main % java -jar Josephus.jar`
+
+Sample Run with :
+
+`JosephusProblem-main % java -jar Josephus.jar 10 2`
+
+The instruction for command line parameters are described above in the problem describtion.</br>
+Program will crash with unexpected command line parameters.
