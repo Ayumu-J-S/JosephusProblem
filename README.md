@@ -21,7 +21,7 @@ to do himself or herself in.
 So, for example, if there were 5 zealots and n happened to be 3, then the
 elimination order of the zealots would be:
 
-3 1 5 2
+3, 1, 5, 2
 
 with position 4 being the last position in the elimination order and thus
 the "safe" position for Josephus to occupy. The numbers correspond to the
@@ -30,9 +30,9 @@ original positions in the "circle", with 1 marking the first position.
 And if, for another example, there were 45 zealots and n is chosen to be 12,
 then the elimination order of the zealots would be:
 
-12 24 36 3 16 29 42 10 25 39 8 23 40 11 28
-45 18 35 9 31 5 27 4 30 7 34 17 44 32 19
-6 43 38 37 41 2 15 26 20 14 22 21 13 1
+12, 24, 36, 3, 16, 29, 42, 10, 25, 39, 8, 23, 40, 11, 28, <br/>
+45, 18, 35, 9, 31, 5, 27, 4, 30, 7, 34, 17, 44, 32, 19, <br/>
+6 , 43, 38, 37, 41, 2, 15, 26, 20, 14, 22, 21, 13, 1 <br/>
 
 with position 33 being the last position in the elimination order and thus
 the "safe" position for Josephus to occupy.
