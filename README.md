@@ -62,3 +62,9 @@ will have to convice someone to exchange places with him. The program will
 end by advising him accordingly.
 
 ## How to compile
+
+To compile
+
+<mark>javac -cp Utils Josephus.java ZealotCircle.java</mark>
+
+Test Run with
