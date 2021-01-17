@@ -65,7 +65,7 @@ end by advising him accordingly.
 
 Compile with the following command:
 
-`javac -cp Utils Josephus.java ZealotCircle.java -d .`
+`javac -cp Utils src/Josephus.java src/ZealotCircle.java -d .`
 
 And make a jar file with the following command:
 
