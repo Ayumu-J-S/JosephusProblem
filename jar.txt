@@ -1,5 +1,5 @@
 cvfe Josephus.jar Josephus Josephus.class ZealotCircle.class ZealotCircle$Node.class 
-src/Josephus.txt
+Josephus.txt
 -C ./Utils OpeningScreen.class
 -C ./Utils TextItems.class
 -C ./Utils Utils.class
