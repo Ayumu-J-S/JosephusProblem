@@ -1,4 +1,4 @@
-#Josephus Problem
+##Josephus Problem
 
 A Java program that solves the Josephus problem.
 
