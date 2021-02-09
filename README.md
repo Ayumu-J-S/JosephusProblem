@@ -1,6 +1,6 @@
 # Josephus Problem
 
-A Java program that solves the Josephus problem.
+A Java program that solves the Josephus problem that I created in Data Sctructure course.
 
 The problem scheme is described down below.
 
