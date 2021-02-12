@@ -86,3 +86,5 @@ Sample Run with :
 
 The instruction for command line parameters are described above in the problem describtion.</br>
 Program will crash with unexpected command line parameters.
+
+Java 8 or above is require to run this jar file.
